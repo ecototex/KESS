@@ -41,10 +41,10 @@ def create_presentation():
 
     # 3. Context & Remittance
     add_bullet_slide("Economic Context: Remittance Dependency", [
-        "Total Population: 3.28M | Literacy: 97.05%",
-        "Per Capita Income: ₹94,392 (Pre-milestone)",
-        "Gulf Remittance: ₹12,000–15,000 Cr annually",
-        "~18% NRI Share; 35% households depend on remittances",
+        "Total Population: 3.42 Million | Literacy: 97.05%",
+        "Per Capita Income: ₹2,61,319 (2024-25)",
+        "Gulf Remittance: ₹3,042 Cr annually",
+        "~18% NRI Share; 15% households depend on remittances",
         "High vulnerability to Gulf economic shifts",
         "History: Ancient spice port & colonial trade hub"
     ])
